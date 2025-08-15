@@ -1,10 +1,15 @@
+<div align="center">
 # 👋 ¡Hola! Soy Santiago Barliza
+</div>
+
+---
 
 💻 Desarrollador en formación apasionado por la programación, el análisis de datos y la creación de interfaces atractivas.  
 🚀 Me gusta aprender, experimentar con nuevas tecnologías y buscar siempre la mejor forma de optimizar el código.  
 
 ---
 
+<div align="center">
 ## 🛠️ Tecnologías y Herramientas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -14,11 +19,13 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+</div>
 
 ---
 
-## 📊 Estadísticas de GitHub
 <div align="center">
+## 📊 Estadísticas de GitHub
+
 
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=barliz4&show_icons=true&theme=radical)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=barliz4&layout=compact&theme=radical)
@@ -38,8 +45,9 @@
 
 ---
 
-## 📫 Conéctate conmigo
 <div align="center">
+## 📫 Conéctate conmigo
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_LINKEDIN/)
 
 </div>
