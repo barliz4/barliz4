@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Santiago Barliza
 
-<!--
-**barliz4/barliz4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador en formación apasionado por la programación, el análisis de datos y la creación de interfaces atractivas.  
+🚀 Me gusta aprender, experimentar con nuevas tecnologías y buscar siempre la mejor forma de optimizar el código.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y Herramientas
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 Estadísticas de GitHub
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
+![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical)
+
+---
+
+## 🌟 Proyectos Destacados
+- [📂 Proyecto 1](https://github.com/barliz4/Repositorio1) — 
+- [📂 Proyecto 2](https://github.com/barliz4/Repositorio2) — 
+
+---
+
+## 📫 Conéctate conmigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_LINKEDIN/)
+
