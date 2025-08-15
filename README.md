@@ -1,7 +1,4 @@
-<div align="center">
-# 👋 ¡Hola! Soy Santiago Barliza
-</div>
-
+👋 ¡Hola! Soy Santiago Barliza
 ---
 
 💻 Desarrollador en formación apasionado por la programación, el análisis de datos y la creación de interfaces atractivas.  
@@ -10,6 +7,7 @@
 ---
 
 <div align="center">
+
 ## 🛠️ Tecnologías y Herramientas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
