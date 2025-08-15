@@ -22,6 +22,7 @@
 ---
 
 <div align="center">
+
 ## 📊 Estadísticas de GitHub
 
 
@@ -34,16 +35,12 @@
 ---
 
 ## 🌟 Proyectos Destacados
-<div align="center">
-
 - [📂 Proyecto Lading Page.](https://github.com/barliz4/LandingPage) 
 - [📂 Proyecto Página Actsis LTDA.](https://github.com/barliz4/Actsis-P) 
 
-</div>
 
 ---
 
-<div align="center">
 ## 📫 Conéctate conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_LINKEDIN/)
