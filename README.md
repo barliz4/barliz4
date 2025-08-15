@@ -23,8 +23,8 @@
 ---
 
 ## 🌟 Proyectos Destacados
-- [📂 Proyecto 1](https://github.com/barliz4/Actsis-P) — 
-- [📂 Proyecto 2](https://github.com/barliz4/LandingPage) — 
+- [📂 Proyecto Lading Page.](https://github.com/barliz4/LandingPage) — 
+- [📂 Proyecto Página Actsis LTDA.](https://github.com/barliz4/Actsis-P) — 
 
 ---
 
