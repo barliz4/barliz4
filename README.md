@@ -23,8 +23,8 @@
 ---
 
 ## 🌟 Proyectos Destacados
-- [📂 Proyecto 1](https://github.com/barliz4/Repositorio1) — 
-- [📂 Proyecto 2](https://github.com/barliz4/Repositorio2) — 
+- [📂 Proyecto 1](https://github.com/barliz4/Actsis-P) — 
+- [📂 Proyecto 2](https://github.com/barliz4/LandingPage) — 
 
 ---
 
