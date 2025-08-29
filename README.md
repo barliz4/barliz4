@@ -36,7 +36,7 @@
 ---
 
 ## 🛠️ Proyectos Destacados
-- [📂 Proyecto Página Cuidado de salud.](https://github.com/barliz4/RepositorioFinal_HealtCare) 
+- [📂 Proyecto Página Cuidado de salud.](https://barliz4.github.io/RepositorioFinal_HealtCare/) 
 - [📂 Proyecto Página Actsis LTDA.](https://github.com/barliz4/Actsis-P) 
 - [📂 Proyecto Lading Page.](https://github.com/barliz4/LandingPage) 
 
