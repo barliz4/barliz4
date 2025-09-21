@@ -7,7 +7,7 @@ Hola, Soy Santiago Barliza
  
 ---
 
-<div align="center"> 
+<div align="center">  
 
 ## 🛠️ Tecnologías y Herramientas
 
