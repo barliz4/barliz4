@@ -24,7 +24,7 @@ Hola, Soy Santiago Barliza
 
 <div align="center">
 
-## 📊 Estadísticas de GitHub
+## 📊 Estadísticas de GitHub.
 
 
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=barliz4&show_icons=true&theme=radical)
