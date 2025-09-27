@@ -31,7 +31,7 @@ Hola, Soy Santiago Barliza
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=barliz4&layout=compact&theme=radical)
 ![Racha de contribuciones](https://github-readme-streak-stats-eight.vercel.app/?user=barliz4&theme=radical)
 
-</div>             
+</div>
 
 ---
 
