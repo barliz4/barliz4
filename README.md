@@ -7,7 +7,7 @@ Hola, Soy Santiago
  
 ---
 
-<div align="center">  
+<div align="center">
 
 ## 🛠️ Tecnologías y Herramientas
 
