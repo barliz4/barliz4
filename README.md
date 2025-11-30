@@ -27,7 +27,7 @@ Hola, Soy Santiago
 ## 📊 Estadísticas de GitHub.
 
 
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=barliz4&show_icons=true&theme=radical)
+<!-- ![Estadísticas](https://github-readme-stats.vercel.app/api?username=barliz4&show_icons=true&theme=radical) -->
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=barliz4&layout=compact&theme=radical)
 ![Racha de contribuciones](https://github-readme-streak-stats-eight.vercel.app/?user=barliz4&theme=radical)  
 
