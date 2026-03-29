@@ -35,8 +35,8 @@ Hola, Soy Santiago
 ---
 
 ## 🛠️ Proyectos Destacados ! 
-- [📂 Proyecto Página Cuidado de salud.](https://barliz4.github.io/RepositorioFinal_HealtCare/)
-- [📂 Proyecto Pet Doctor.](https://barliz4.github.io/Pet_Doctor/)  
+- [📂 Proyecto Donde JEAN K Web](https://barliz4.github.io/JEANK---Restaurante/) 
+- [📂 Proyecto Caprichos.]( https://barliz4.github.io/CapriBga/)  
 - [📂 Proyecto Página Actsis LTDA.](https://github.com/barliz4/Actsis-P) 
 
 
