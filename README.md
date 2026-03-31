@@ -35,6 +35,7 @@ Hola, Soy Santiago
 ---
 
 ## 🛠️ Proyectos Destacados ! 
+- [📂 Proyecto TecnoStore](https://barliz4.github.io/TecnoStore/) 
 - [📂 Proyecto Donde JEAN K Web](https://barliz4.github.io/JEANK---Restaurante/) 
 - [📂 Proyecto Caprichos.]( https://barliz4.github.io/CapriBga/)  
 - [📂 Proyecto Página Actsis LTDA.](https://github.com/barliz4/Actsis-P) 
