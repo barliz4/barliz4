@@ -33,7 +33,7 @@ Hola, Soy Santiago
 </div>  
 
 ---
-
+ 
 ## 🛠️ Proyectos Destacados ! 
 - [📂 Proyecto TecnoStore](https://barliz4.github.io/TecnoStore/) 
 - [📂 Proyecto Donde JEAN K Web](https://barliz4.github.io/JEANK---Restaurante/) 
