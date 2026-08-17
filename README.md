@@ -1,6 +1,6 @@
 Hola, Soy Santiago
 ---    
- - 🎓 Análisis y Desarrollo de Software (SENA)
+ - 🎓 Análisis y Desarrollo de Software 
  - 💻 Desarrollador en formación apasionado por la programación, el análisis de datos y la creación de interfaces atractivas.  
  - 🚀 Me gusta aprender, experimentar con nuevas tecnologías y buscar siempre la mejor forma de optimizar el código.  
  - 📈 Disfruto colaborar en equipo, compartir conocimientos y aprender de otros profesionales para crecer juntos en cada proyecto.      
